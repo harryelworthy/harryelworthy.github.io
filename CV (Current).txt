@@ -1,0 +1,48 @@
+﻿Harry Elworthy
+Staff Applied Scientist
+harryelworthy@gmail.com | +14156843032 | Github | Linkedin
+
+
+High performing Applied Scientist with experience applying rigorous analysis to complex questions, leading cross-functional projects and working in high-ambiguity environments. Expertise in causal inference & experimentation techniques, predictive modeling and communication to internal and external audiences. Passionate about transit, housing, riding and racing bikes.
+
+
+NZ & US dual citizen living in the US, open to relocation to the UK. 3 years of UK Visa eligibility (YMS).
+
+
+Work
+Uber, Staff Applied Scientist, Policy and Economics – (Senior Data Scientist)        2019 - Present
+
+
+I work in a cross-functional role under the chief economist focused on earner regulation and research. This has meant producing economic research for internal and external use, modeling and advising on potential large-scale changes to the business, and crafting external policy narratives around how to build optimal laws that preserve earners’ flexibility. I also frequently collaborate with product teams to implement and optimize around new regulations.
+* Led numerous external-facing research projects including blog posts (1,2), reports with external consultants, and longer-term research with academic economists (1).
+* Built predictive models of the business impacts of regulatory changes, leveraging my and others’ research. These are frequently used by business leaders to inform political & product strategy.
+* Lead analyst for negotiations on HB2076, NYC Congestion, NYC Delivery, among other issues. Played a pivotal role in forming final outcomes, e.g. pushing for a per-trip congestion tax for rideshare & taxi in NYC over a cordon fee; securing anti-fraud measures in the NYC delivery standard. Directly negotiated with regulators and unions, virtually and in person.
+* Conducted research on tipping that led to significant product changes in regulated US markets with 10M+ annual savings. 
+* Applied my research to push for changes to courier dispatch in California in order to save 1M+ annually.
+* Wrote an internal white paper on the impact of a US pay regulation on the business, which led to an update of internal impact estimates across the company going forward.
+* Scaled my research and modeling results into Tableau and Looker dashboards used by business leaders to see earnings trends during the pandemic, and to see the potential effects of earning regulations. Built data pipelines for this purpose.
+* Involved in XP design (AB, SC, Switchback) and analysis, for e.g. updates to pricing algorithms in response to regulation. Frequent auditor of potentially risky product changes.
+
+
+George Mason University, Research Assistant        2018
+Economics RA for Alex Tabarrok and Eric Helland for book: Why are the prices so damn high?. 
+
+
+New Zealand Labour Party, Junior Economist        2017
+Helped the opposition party win back power as one of two economists under finance spokesperson Grant Robertson for election year. Contributed to Labour’s 2017 budget proposal, focusing on the Best Start & Working Families packages. 
+
+
+Education
+Duke University, B.A. Economics        2015 - 2019
+High Distinction in Economics, Robertson Scholar
+Senior thesis published in the Duke Journal of Economics: Does Media Coverage of Sexual Assault Cases Cause Victims to Go to the Police? Evidence from FBI Data and Google Trends 
+
+
+Technical Skills
+* Languages: R, Python, SQL
+* Tools: ggplot, dplyr, Pandas, NumPy, Pytorch
+* Tech: Hive, AWS, Git
+* Machine Learning: Supervised Learning, Clustering, Computer Vision
+References
+Libby Mishkin, Applied Science Director at Uber - manager
+Jonathan Hall, VP/Chief Economist at Uber - skip manager
