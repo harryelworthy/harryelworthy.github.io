@@ -26,38 +26,6 @@
 /* Title size adjustment */
 .intro-header .page-heading h1,
 .intro-header .post-heading h1 {
-  font-size: 32px !important;
+  font-size: 48px !important;
   font-weight: 500 !important;
 }
-
-/* Aggressive title size reduction */
-.intro-header .container-md .page-heading h1,
-.intro-header .container-md .post-heading h1,
-.intro-header .page-heading h1,
-.intro-header .post-heading h1,
-div.intro-header div.container-md div.page-heading h1,
-.page-heading h1,
-h1.post-title,
-header h1,
-h1 {
-  font-size: 24px !important;
-  font-weight: 500 !important;
-  margin: 0 !important;
-  padding: 0 !important;
-  line-height: 1.2 !important;
-}
-
-/* Also reduce subtitle size if present */
-.intro-header .page-heading .page-subheading,
-.intro-header .post-heading .post-subheading {
-  font-size: 18px !important;
-  line-height: 1.1 !important;
-  margin: 10px 0 0 !important;
-}
-
-/* Headers in content */
-h2 {
-  font-size: 20px !important;
-  margin-top: 2rem !important;
-  font-weight: 500 !important;
-} 
