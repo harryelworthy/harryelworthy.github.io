@@ -36,6 +36,14 @@ h1 {
   font-size: 2rem !important;
 }
 
+/* Target the main header title specifically */
+.intro-header .page-heading h1,
+.intro-header .post-heading h1,
+.header-section-heading {
+  font-size: 2rem !important;
+  margin-top: 0 !important;
+}
+
 /* Also adjust h2 headers for better hierarchy */
 h2 {
   font-size: 1.5rem !important;
