@@ -23,6 +23,13 @@
   border: none !important;
 }
 
+/* Title size adjustment */
+.intro-header .page-heading h1,
+.intro-header .post-heading h1 {
+  font-size: 32px !important;
+  font-weight: 500 !important;
+}
+
 /* Aggressive title size reduction */
 .intro-header .container-md .page-heading h1,
 .intro-header .container-md .post-heading h1,
