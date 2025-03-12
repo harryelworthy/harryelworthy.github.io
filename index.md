@@ -37,6 +37,3 @@ Working in a cross-functional role under the chief economist, I focus on earner 
 **Duke University** (2015 - 2019)  
 B.A. Economics with High Distinction  
 Robertson Scholar
-
-
-[CV](cv.pdf){:target="_blank"}
